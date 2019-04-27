@@ -2,7 +2,7 @@
 
 ## IMPORTANT STEP!
 
-The shapefile (a composite file type made up of a bunch of other files) for vhf_locations_1997to2012_pip is too large to store on Git (zipping did not solve the problem. Therefore it's stored on Google Drive and will need to be downloaded in order to run CleanSheepData.py. However, all other scripts will run independent of CleanSheepData.py because the cleaned data output of this code is already available. 
+The shapefile (a composite file type made up of a bunch of other files) for vhf_locations_1997to2012_pip is too large to store on Git (zipping did not solve the problem). Therefore it's stored on Google Drive and will need to be downloaded in order to run CleanSheepData.py. However, all other scripts will run independent of CleanSheepData.py because the cleaned data output of this code is already available. 
 
 ## Instructions for retrieving this data:
 1) Download the zip file: https://drive.google.com/file/d/1sJgyUdxDZGlJnzHmzlLJ2Dj3xlK7wyo5/view?usp=sharing
